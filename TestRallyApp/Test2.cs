@@ -14,5 +14,9 @@ namespace TestRallyApp
         public void GetTest()
         {
         }
+
+        public void ReturnValue()
+        {
+        }
     }
 }
