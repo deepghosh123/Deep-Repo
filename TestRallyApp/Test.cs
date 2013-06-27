@@ -11,5 +11,8 @@ namespace TestRallyApp
         {
 
         }
+        public void GetTest()
+        {
+        }
     }
 }
